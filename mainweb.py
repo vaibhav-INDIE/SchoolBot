@@ -5,7 +5,7 @@ from bot import login
 from bot import google_meet_setup
 
 
-vaibhav = login("vaibhavtarun52@gmail.com","Vaibhav123")
+vaibhav = login("vaibhavtarun52@gmail.com","")
 vaibhav.sign_in()
 vaibhav.loginID()
 time.sleep(1)
