@@ -3,7 +3,7 @@ from practice import time
 import practice
 from practice import user
 
-vaibhav = user("vaibhavtarun52@gmail.com","Vaibhav123")
+vaibhav = user("vaibhavtarun52@gmail.com","")
 
 
 vaibhav.click("/html/body/div[2]/div[1]/div/div/div/div[2]/div[2]")
